@@ -26,24 +26,24 @@ const educationData = [
         location: "Vadodara, Gujarat, India",
         gpa: "GPA: 7.50"
     },
-    {
-        id: "item-3",
-        degree: "INTERMEDIATE",
-        institution: "Akshara Junior College",
-        details: "MPC (Maths, Physics, Chemistry)",
-        year: "Septmeber 2019 - March 2021",
-        location: "Hyderabad, Telangana, India",
-        gpa: "GPA: 9.54"
-    },
-    {
-        id: "item-4",
-        degree: "SSC",
-        institution: "Krishnaveni Talent School",
-        details: "Secondary School Certificate",
-        year: "June 2018 - March 2019",
-        location: "Mancherial, Telangana, India",
-        gpa: "GPA: 8.8"
-    }
+    // {
+    //     id: "item-3",
+    //     degree: "INTERMEDIATE",
+    //     institution: "Akshara Junior College",
+    //     details: "MPC (Maths, Physics, Chemistry)",
+    //     year: "Septmeber 2019 - March 2021",
+    //     location: "Hyderabad, Telangana, India",
+    //     gpa: "GPA: 9.54"
+    // },
+    // {
+    //     id: "item-4",
+    //     degree: "SSC",
+    //     institution: "Krishnaveni Talent School",
+    //     details: "Secondary School Certificate",
+    //     year: "June 2018 - March 2019",
+    //     location: "Mancherial, Telangana, India",
+    //     gpa: "GPA: 8.8"
+    // }
     
 ];
 
